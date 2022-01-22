@@ -57,3 +57,5 @@ about:
 extra:
   recipe-maintainers:
     - sugatoray
+    # Maintainer(s) from stripnet repo
+    - stephenleo
